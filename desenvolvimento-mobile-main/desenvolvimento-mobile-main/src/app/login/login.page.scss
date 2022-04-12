@@ -1,0 +1,34 @@
+@import "../../global.scss";
+
+
+
+.app-logo {
+    margin-bottom: 20px;
+}
+
+.forms {
+    
+    .input { 
+        width: 317px;
+        height: 56px;
+        background: #F1F5F4;
+        border-radius: 29px;
+        
+    }
+}
+
+.outro-login {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    p {
+        color:#a0a0a0
+    }
+}
+
+.mr-100 {
+    margin-right: 100px;
+}
